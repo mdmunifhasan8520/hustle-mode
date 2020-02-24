@@ -13,6 +13,7 @@
 		A32BC9112403AD6D0099CD09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A32BC90F2403AD6D0099CD09 /* Main.storyboard */; };
 		A32BC9132403AD8A0099CD09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A32BC9122403AD8A0099CD09 /* Assets.xcassets */; };
 		A32BC9162403AD8A0099CD09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A32BC9142403AD8A0099CD09 /* LaunchScreen.storyboard */; };
+		A32BC91E2403C1A80099CD09 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = A32BC91D2403C1A80099CD09 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A32BC9122403AD8A0099CD09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A32BC9152403AD8A0099CD09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A32BC9172403AD8A0099CD09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A32BC91D2403C1A80099CD09 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A32BC9122403AD8A0099CD09 /* Assets.xcassets */,
 				A32BC9142403AD8A0099CD09 /* LaunchScreen.storyboard */,
 				A32BC9172403AD8A0099CD09 /* Info.plist */,
+				A32BC91D2403C1A80099CD09 /* hustle-on.wav */,
 			);
 			path = "hustle mode";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A32BC91E2403C1A80099CD09 /* hustle-on.wav in Resources */,
 				A32BC9162403AD8A0099CD09 /* LaunchScreen.storyboard in Resources */,
 				A32BC9132403AD8A0099CD09 /* Assets.xcassets in Resources */,
 				A32BC9112403AD6D0099CD09 /* Main.storyboard in Resources */,
